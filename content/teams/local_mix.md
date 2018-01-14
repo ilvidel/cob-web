@@ -1,6 +1,8 @@
 ---
 title: Bristol Local League - Mixed
-type: blog
+type: teams
+categories:
+- teams
 banner: img/portfolio-5.jpg
 tags:
 - local league
@@ -8,7 +10,7 @@ tags:
 date: 2017-10-01
 ---
 
-Number | Player | Position | Height 
+Number | Player | Position | Height
 ------ | ------ | -------- | -------
 X | Mrzowska, Agata | | 0cm
 12 | Kris Lus | Setter | 175 cm
@@ -21,4 +23,3 @@ X | BENTLEY, Neil | Libero | 0cm
 X | JENKINS, Julie | Setter | 0cm
 X | GORTON, Phil | Setter | 0cm
 X | LETUCHEVA, Nadia | Opposite | 0cm
-

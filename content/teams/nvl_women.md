@@ -1,6 +1,8 @@
 ---
 title: NVL Women Division 3
-type: blog
+type: teams
+categories:
+- teams
 banner: img/women.jpg
 tags:
 - nvl
@@ -8,7 +10,7 @@ tags:
 date: 2017-10-06
 ---
 
-Number 	  | Player 			   | Position | Height 
+Number 	  | Player 			   | Position | Height
 ---- 	  | ------ 			   | -------- | -------
 X 		  | CHOMICZ, Tania 	   | Player   | 0cm
 X 		  | ADAMS, Michelle    | Player   | 0cm

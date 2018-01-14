@@ -1,6 +1,8 @@
 ---
 title: Bristol Local League - Men
-type: blog
+type: teams
+categories:
+- teams
 banner:
 tags:
 - local league

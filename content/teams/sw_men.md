@@ -1,6 +1,8 @@
 ---
 title: South West League - Men
-type: blog
+type: teams
+categories:
+- teams
 banner: img/portfolio-9.jpg
 tags:
 - south west
