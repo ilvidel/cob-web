@@ -75,17 +75,24 @@ paginate = 10
 
 
 # Top bar social links menu
+
 [[menu.topbar]]
     weight = 1
-    name = "YouTube"
-    url = "https://youtube.com/user/cityofbristol"
-    pre = "<i class='fa fa-2x fa-youtube'></i>"
+    name = "Facebook"
+    url = "https://www.facebook.com/groups/2479457725/"
+    pre = "<i class='fa fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
     weight = 2
     name = "Flickr"
     url = "http://flickr.com/cityofbristol"
     pre = "<i class='fa fa-2x fa-flickr'></i>"
+
+[[menu.topbar]]
+    weight = 3
+    name = "YouTube"
+    url = "https://youtube.com/user/cityofbristol"
+    pre = "<i class='fa fa-2x fa-youtube'></i>"
 
 # [[menu.topbar]]
 #     weight = 3
@@ -126,13 +133,13 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "your@email.com"
 
-    about_us = "<p>Write a paragraph about us.</p>"
+    about_us = "<p>Playing and promoting volleyball in Bristol and District since the Roman Empire.</p>"
     copyright = "Copyright (c) 2018, CoB VC; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "2 Jan 2006"
 
-    logo = "cob-logo.png"
+    logo = "logo.png"
     address = """<p><strong>The City Academy</strong>
         <br>Russel Town Avenue
         <br>BS5 9JH
@@ -182,9 +189,9 @@ paginate = 10
     enable = true
     icon = "fa fa-graduation-cap"
     title = "History"
-    subtitle = "The City of Bristol Volleyball Club has a long history. It was first created in 19?? as the Whitefield Volleyball Club...."
-    link_url = "#history"
-    link_text = "Read more"
+    subtitle = "We are a Bristol based volleyball club that cater to lots of skill levels. The formation of the club occurred as a result of a merger between two of Bristol's oldest volleyball clubs, _Whitefield_ and _Speedwell_. The merger, which took place in the summer of 2004, was driven by goals shared by both clubs. We are proud to host the largest outdoor volleyball tournament in the UK every summer, which is now in Brislington, at South Bristol Sports Centre on a weekend in July. The tournament brings in much needed funds for our club and enables us to offer very good rates for club members to play our lovely sport. The tournament is named after our original club which was based at Whitefield School, but it's run solely by the members and friends of the now **City of Bristol Volleyball Club**"
+    link_url = "/about/"
+    link_text = "Read about us"
 
 [params.clients]
     enable = true
