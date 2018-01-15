@@ -10,11 +10,16 @@ tags:
 date: 2017-10-06
 ---
 
-Number 	  | Player 			   | Position | Height
----- 	  | ------ 			   | -------- | -------
-X 		  | CHOMICZ, Tania 	   | Player   | 0cm
-X 		  | ADAMS, Michelle    | Player   | 0cm
-X 		  | Mrzowska, Agata    | Player   | 0cm
-X 		  | FERNÁNDEZ, Merixel | Player   | 0cm
-X 		  | LETUCHEVA, Nadia   | Player   | 0cm
+Number 	  | Player 			   | Position
+---- 	  | ------ 			   | --------
+X 		  | CHOMICZ, Tania 	   | Player
+X 		  | ADAMS, Michelle    | Player
+X 		  | MRZOWSKA, Agata    | Player
+X 		  | FERNÁNDEZ, Merixel | Player
+X 		  | LETUCHEVA, Nadia   | Player
 **Coach** | **Przemek Kolenda**
+
+<br/>
+
+<a href="https://www.volleyballengland.org/competitions/national_volleyball_league/league_tables?comp=VE1&season=VE83036551&division=VE14714842" class="results">Table</a>
+<a href="https://www.volleyballengland.org/competitions/national_volleyball_league/fixtures?season=VE83036551&division=VE14714842&teamID=BHA062377&month=all&sr=0" class="results">Fixtures</a>

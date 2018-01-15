@@ -13,16 +13,22 @@ date: 2017-10-07
 
 <br/>
 
-Number 	  | Player 				| Position | Height
------- 	  | ------ 				| -------- | -------
-13 		  | KOLENDA, Przemyslaw | Setter   | 194 cm
-X 		  | LADIC, Tadej 		| Middle   | 0 cm
-X 		  | TURNER, Ben 		| Middle   | 0 cm
-X 		  | LISOWSKI, Adam 		| Outside  | 0 cm
-X 		  | WSZOLEK, Darius 	| Opposite | 0 cm
-X 		  | ALKHALAF, Hossen 	| Outside  | 0 cm
-X 		  | FLORESCU, Radu 		| Outside  | 0 cm
-X 		  | BANWELL, Guy 		| Outside  | 0 cm
-X 		  | EVANS, Ollie 		| Libero   | 0 cm
-X 		  | RUEDA, Carlos 		| Libero   | 0 cm
+Number 	  | Player 				| Position
+------ 	  | ------ 				| --------
+X 		  | TURNER, Ben 		| Middle
+1 		  | WSZOLEK, Darius 	| Opposite
+4 		  | BANWELL, Guy 		| Outside
+6		  | GORTON, Phil        | Setter
+8 		  | FLORESCU, Radu 		| Outside
+10 		  | LADIC, Tadej 		| Middle
+11		  | LISOWSKI, Adam 		| Outside
+13 		  | KOLENDA, Przemyslaw | Setter
+15		  | ALKHALAF, Hossen 	| Outside
+19		  | EVANS, Ollie 		| Libero
+20		  | RUEDA, Carlos 		| Libero
 **Coach** | **Phil Gorton**
+
+<br/>
+
+<a href="https://www.volleyballengland.org/competitions/national_volleyball_league/league_tables?comp=VE1&season=VE83036551&division=VE14801527" class="results">Table</a>
+<a href="https://www.volleyballengland.org/competitions/national_volleyball_league/fixtures?season=VE83036551&division=VE14801527&teamID=BHA062436&month=all&sr=0" class="results">Fixtures</a>
