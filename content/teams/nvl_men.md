@@ -30,5 +30,5 @@ X 		  | TURNER, Ben 		| Middle
 
 <br/>
 
-<a href="https://www.volleyballengland.org/competitions/national_volleyball_league/league_tables?comp=VE1&season=VE83036551&division=VE14801527" class="results">Table</a>
-<a href="https://www.volleyballengland.org/competitions/national_volleyball_league/fixtures?season=VE83036551&division=VE14801527&teamID=BHA062436&month=all&sr=0" class="results">Fixtures</a>
+<a href="https://www.volleyballengland.org/competitions/national_volleyball_league/league_tables?comp=VE1&season=VE83036551&division=VE14801527" class="results" target="_blank">Table</a>
+<a href="https://www.volleyballengland.org/competitions/national_volleyball_league/fixtures?season=VE83036551&division=VE14801527&teamID=BHA062436&month=all&sr=0" class="results" target="_blank">Fixtures</a>

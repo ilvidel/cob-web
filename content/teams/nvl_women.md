@@ -9,6 +9,9 @@ tags:
 - women
 date: 2017-10-06
 ---
+![Women's Local League Team](../../img/women.jpg)
+
+<br>
 
 Number 	  | Player 			   | Position
 ---- 	  | ------ 			   | --------
@@ -21,5 +24,5 @@ X 		  | LETUCHEVA, Nadia   | Player
 
 <br/>
 
-<a href="https://www.volleyballengland.org/competitions/national_volleyball_league/league_tables?comp=VE1&season=VE83036551&division=VE14714842" class="results">Table</a>
-<a href="https://www.volleyballengland.org/competitions/national_volleyball_league/fixtures?season=VE83036551&division=VE14714842&teamID=BHA062377&month=all&sr=0" class="results">Fixtures</a>
+<a href="https://www.volleyballengland.org/competitions/national_volleyball_league/league_tables?comp=VE1&season=VE83036551&division=VE14714842" class="results" target="_blank">Table</a>
+<a href="https://www.volleyballengland.org/competitions/national_volleyball_league/fixtures?season=VE83036551&division=VE14714842&teamID=BHA062377&month=all&sr=0" class="results" target="_blank">Fixtures</a>

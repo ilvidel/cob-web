@@ -10,7 +10,7 @@ tags:
 date: 2017-10-05
 ---
 
-![](../../img/portfolio-9.jpg)
+![South West League - Men](../../img/portfolio-9.jpg)
 
 Number 	  | Player 			 | Position
 ------ 	  | ------ 			 | --------
@@ -26,5 +26,5 @@ Number 	  | Player 			 | Position
 
 <br/>
 
-<a href="http://swva.volleyballmatches.co.uk/showtables.asp?dbtdivision=2" class="results">Table</a>
-<a href="http://swva.volleyballmatches.co.uk/showfixtures.asp?division=2" class="results">Fixtures and Results</a>
+<a href="http://swva.volleyballmatches.co.uk/showtables.asp?dbtdivision=2" class="results" target="_blank">Table</a>
+<a href="http://swva.volleyballmatches.co.uk/showfixtures.asp?division=2" class="results" target="_blank">Fixtures and Results</a>

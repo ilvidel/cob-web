@@ -9,6 +9,9 @@ tags:
 - men
 date: 2017-10-03
 ---
+![Men's Local League Team](../../img/home-try.jpg)
+
+<br>
 
 Number 	  | Player 			 | Position
 ------ 	  | ------ 			 | --------
@@ -23,5 +26,5 @@ X 		  | BENTLEY, Neil 	 | Libero
 
 <br/>
 
-<a href="https://www.volleyballengland.org/competitions/national_volleyball_league/league_tables?comp=VE1&season=VE83036551&division=VE14801527" class="results">Table</a>
-<a href="https://www.volleyballengland.org/competitions/national_volleyball_league/fixtures?season=VE83036551&division=VE14801527&teamID=BHA062436&month=all&sr=0" class="results">Fixtures</a>
+<a href="http://www.badva.org.uk/" class="results" target="_blank">Table</a>
+<a href="http://www.http://badva.org.uk/fixtures.html" class="results" target="_blank">Fixtures</a>

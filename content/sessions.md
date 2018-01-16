@@ -6,8 +6,11 @@ title: "Training"
 
 We have training sessions every Tuesday at City Academy in Bristol:
 
+<br>
+
 Time  | Team
 ----  | ----
+<br>  |
 19:30 - 21:00 | Women NVL3 + Local League
 21:00 - 22:30 | Men NVL 2 + SouthWest
 

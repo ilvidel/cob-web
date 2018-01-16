@@ -16,9 +16,9 @@ of Bristol's oldest volleyball clubs, Whitefield and Speedwell. The
 merger, which took place in the summer of 2004, was driven by goals
 shared by both clubs:
 
-- improve the profile of volleyball as a sport in the UK
-- increase volleyball participation in Bristol and surrounding areas
-- create an environment to produce skilled athletes and winning teams
+- Improve the profile of volleyball as a sport in the UK
+- Increase volleyball participation in Bristol and surrounding areas
+- Create an environment to produce skilled athletes and winning teams
 
 As a start, the merger is intended to allow people of all skill levels
 to play within one club. A vision for the next couple of years sees up

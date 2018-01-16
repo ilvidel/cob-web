@@ -21,16 +21,16 @@ paginate = 10
     url  = "/"
     weight = 1
 
-[[menu.main]]
-    name = "about"
-    url  = "/about/"
-    weight = 2
+#[[menu.main]]
+#    name = "about"
+#    url  = "/about/"
+#    weight = 2
 
 [[menu.main]]
     name = "Teams"
     identifier = "teams"
     url  = "/teams/"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
 	name = "Men NVL Div 2"
@@ -84,15 +84,15 @@ paginate = 10
 
 [[menu.topbar]]
     weight = 2
-    name = "Flickr"
-    url = "http://flickr.com/cityofbristol"
-    pre = "<i class='fa fa-2x fa-flickr'></i>"
+    name = "YouTube"
+    url = "https://www.youtube.com/channel/UCVcy1yOrBZvjUchuiYNnXcg"
+    pre = "<i class='fa fa-2x fa-youtube'></i>"
 
 [[menu.topbar]]
     weight = 3
-    name = "YouTube"
-    url = "https://youtube.com/user/cityofbristol"
-    pre = "<i class='fa fa-2x fa-youtube'></i>"
+    name = "Flickr"
+    url = "http://flickr.com/cityofbristol"
+    pre = "<i class='fa fa-2x fa-flickr'></i>"
 
 # [[menu.topbar]]
 #     weight = 3
@@ -157,7 +157,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = "topbar text"
+    text = "''A good team can win a volleyball game when they are ahead, a great team can win when they are behind''"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
@@ -165,11 +165,13 @@ paginate = 10
     tags = true
     search = false
 
-[params.carousel]
+[params.see_more]
     enable = true
-    # All carousel items are defined in their own files. You can find example items
-    # at 'exampleSite/data/carousel'.
-    # For more informtion take a look at the README.
+    icon = "fa fa-graduation-cap"
+    title = "History"
+    subtitle = "We are a Bristol based volleyball club that cater to lots of skill levels. The formation of the club occurred as a result of a merger between two of Bristol's oldest volleyball clubs, _Whitefield_ and _Speedwell_. The merger, which took place in the summer of 2004, was driven by goals shared by both clubs. We are proud to host the largest outdoor volleyball tournament in the UK every summer, which is now in Brislington, at South Bristol Sports Centre on a weekend in July. The tournament brings in much needed funds for our club and enables us to offer very good rates for club members to play our lovely sport. The tournament is named after our original club which was based at Whitefield School, but it's run solely by the members and friends of the now **City of Bristol Volleyball Club**"
+    link_url = "/about/"
+    link_text = "Read about us"
 
 [params.features]
     enable = true
@@ -185,13 +187,12 @@ paginate = 10
     title = "The Board"
     subtitle = "Meet the group of people that make the club go on."
 
-[params.see_more]
+
+[params.carousel]
     enable = true
-    icon = "fa fa-graduation-cap"
-    title = "History"
-    subtitle = "We are a Bristol based volleyball club that cater to lots of skill levels. The formation of the club occurred as a result of a merger between two of Bristol's oldest volleyball clubs, _Whitefield_ and _Speedwell_. The merger, which took place in the summer of 2004, was driven by goals shared by both clubs. We are proud to host the largest outdoor volleyball tournament in the UK every summer, which is now in Brislington, at South Bristol Sports Centre on a weekend in July. The tournament brings in much needed funds for our club and enables us to offer very good rates for club members to play our lovely sport. The tournament is named after our original club which was based at Whitefield School, but it's run solely by the members and friends of the now **City of Bristol Volleyball Club**"
-    link_url = "/about/"
-    link_text = "Read about us"
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
 
 [params.clients]
     enable = true
