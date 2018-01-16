@@ -23,6 +23,7 @@ X 		  | TURNER, Ben 		| Middle   |  x
 10 		  | LADIC, Tadej 		| Middle   |  x
 11		  | LISOWSKI, Adam 		| Outside  |  x
 13 		  | KOLENDA, Przemyslaw | Setter   |  x
+X 	      | GORTON, Phil 	    | Setter   |  x
 15		  | ALKHALAF, Hossen 	| Outside  |  x
 19		  | EVANS, Ollie 		| Libero   |  x
 20		  | RUEDA, Carlos 		| Libero   |  x

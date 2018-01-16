@@ -13,21 +13,21 @@ date: 2017-10-01
 
 <br>
 
-Number | Player 		  | Position
------- | ------ 		  | --------
-X 	   | Mrzowska, Agata  |
-X 	   | FRASER, Don	  | Middle
-X 	   | NAVARRO, José 	  | Middle
-X 	   | YOUSTER, Chris	  | Outside
-X 	   | GRIFFIN, Michael | Opposite
-X 	   | BENTLEY, Neil 	  | Libero
-X 	   | JENKINS, Julie   | Setter
-X 	   | GORTON, Phil 	  | Setter
-X 	   | LETUCHEVA, Nadia | Opposite
-12 	   | LUS, Kris 		  | Setter
-15 	   | DÍEZ, Ignacio 	  | Middle
+Number | Player 		  | Position | Height
+------ | ------ 		  | -------- | -----
+X 	   | Mrzowska, Agata  | Outside  | x
+X 	   | FRASER, Don	  | Middle   | x
+X 	   | NAVARRO, José 	  | Middle   | x
+X 	   | YOUSTER, Chris	  | Outside  | x
+X 	   | GRIFFIN, Michael | Opposite | x
+X 	   | BENTLEY, Neil 	  | Libero   | x
+X 	   | JENKINS, Julie   | Setter   | x
+X 	   | GORTON, Phil 	  | Setter   | x
+X 	   | LETUCHEVA, Nadia | Opposite | x
+12 	   | LUS, Kris 		  | Setter   | x
+15 	   | DÍEZ, Ignacio 	  | Middle   | x
 
 <br/>
 
 <a href="http://www.badva.org.uk/" class="results" target="_blank">Table</a>
-<a href="http://www.http://badva.org.uk/fixtures.html" class="results" target="_blank">Fixtures</a>
+<a href="http://www.badva.org.uk/fixtures.html" class="results" target="_blank">Fixtures</a>

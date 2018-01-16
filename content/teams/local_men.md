@@ -13,18 +13,18 @@ date: 2017-10-03
 
 <br>
 
-Number 	  | Player 			 | Position
------- 	  | ------ 			 | --------
-12 		  | LUS, Kris 		 | Setter
-15 		  | DÍEZ, Ignacio 	 | Middle
-X 		  | FRASER, Don		 | Middle
-X 		  | NAVARRO, José 	 | Middle
-X 		  | YOUSTER, Chris	 | Outside
-X 		  | GRIFFIN, Michael | Opposite
-X 		  | BENTLEY, Neil 	 | Libero
+Number 	  | Player 			 | Position | Height
+------ 	  | ------ 			 | -------- | -----
+12 		  | LUS, Kris 		 | Setter   | x
+15 		  | DÍEZ, Ignacio 	 | Middle   | x
+X 		  | FRASER, Don		 | Middle   | x
+X 		  | NAVARRO, José 	 | Middle   | x
+X 		  | YOUSTER, Chris	 | Outside  | x
+X 		  | GRIFFIN, Michael | Opposite | x
+X 		  | BENTLEY, Neil 	 | Libero   | x
 **Coach** | **Phil Gorton**
 
 <br/>
 
 <a href="http://www.badva.org.uk/" class="results" target="_blank">Table</a>
-<a href="http://www.http://badva.org.uk/fixtures.html" class="results" target="_blank">Fixtures</a>
+<a href="http://www.badva.org.uk/fixtures.html" class="results" target="_blank">Fixtures</a>

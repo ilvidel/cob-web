@@ -12,16 +12,17 @@ date: 2017-10-05
 
 ![South West League - Men](../../img/portfolio-9.jpg)
 
-Number 	  | Player 			 | Position
------- 	  | ------ 			 | --------
-          | GRIFFIN, Mike    | Opposite
-          | RUEDA, Carlos    | Outside
-3         | YOUSTER, Chris   | Outside
-9         | FRASER, Don      | Middle
-12        | LUS, Kris        | Setter
-14        | NAVARRO, José    | Middle
-15        | DÍEZ, Ignacio    | Middle
-20        | BENTLEY, Neil    | Libero
+Number 	  | Player 			 | Position | Height
+------ 	  | ------ 			 | -------- | -------
+          | GORTON, Phil     | Setter   | x
+          | GRIFFIN, Mike    | Opposite | x
+          | RUEDA, Carlos    | Outside  | x
+3         | YOUSTER, Chris   | Outside  | x
+9         | FRASER, Don      | Middle   | x
+12        | LUS, Kris        | Setter   | x
+14        | NAVARRO, José    | Middle   | x
+15        | DÍEZ, Ignacio    | Middle   | x
+20        | BENTLEY, Neil    | Libero   | x
 **Coach** | **Phil Gorton**
 
 <br/>

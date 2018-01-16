@@ -13,13 +13,13 @@ date: 2017-10-06
 
 <br>
 
-Number 	  | Player 			   | Position
----- 	  | ------ 			   | --------
-X 		  | CHOMICZ, Tania 	   | Player
-X 		  | ADAMS, Michelle    | Player
-X 		  | MRZOWSKA, Agata    | Player
-X 		  | FERNÁNDEZ, Merixel | Player
-X 		  | LETUCHEVA, Nadia   | Player
+Number 	  | Player 			   | Position | Height
+---- 	  | ------ 			   | -------- | -----
+X 		  | CHOMICZ, Tania 	   | Player   | x
+X 		  | ADAMS, Michelle    | Player   | x
+X 		  | MRZOWSKA, Agata    | Player   | x
+X 		  | FERNÁNDEZ, Merixel | Player   | x
+X 		  | LETUCHEVA, Nadia   | Player   | x
 **Coach** | **Przemek Kolenda**
 
 <br/>
