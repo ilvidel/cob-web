@@ -13,19 +13,19 @@ date: 2017-10-07
 
 <br/>
 
-Number 	  | Player 				| Position
------- 	  | ------ 				| --------
-X 		  | TURNER, Ben 		| Middle
-1 		  | WSZOLEK, Darius 	| Opposite
-4 		  | BANWELL, Guy 		| Outside
-6		  | GORTON, Phil        | Setter
-8 		  | FLORESCU, Radu 		| Outside
-10 		  | LADIC, Tadej 		| Middle
-11		  | LISOWSKI, Adam 		| Outside
-13 		  | KOLENDA, Przemyslaw | Setter
-15		  | ALKHALAF, Hossen 	| Outside
-19		  | EVANS, Ollie 		| Libero
-20		  | RUEDA, Carlos 		| Libero
+Number 	  | Player 				| Position | Height
+------ 	  | ------ 				| -------- | -------
+X 		  | TURNER, Ben 		| Middle   |  x
+1 		  | WSZOLEK, Darius 	| Opposite |  x
+4 		  | BANWELL, Guy 		| Outside  |  x
+6		  | GORTON, Phil        | Setter   |  x
+8 		  | FLORESCU, Radu 		| Outside  |  x
+10 		  | LADIC, Tadej 		| Middle   |  x
+11		  | LISOWSKI, Adam 		| Outside  |  x
+13 		  | KOLENDA, Przemyslaw | Setter   |  x
+15		  | ALKHALAF, Hossen 	| Outside  |  x
+19		  | EVANS, Ollie 		| Libero   |  x
+20		  | RUEDA, Carlos 		| Libero   |  x
 **Coach** | **Phil Gorton**
 
 <br/>
