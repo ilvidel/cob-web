@@ -21,16 +21,37 @@ paginate = 10
     url  = "/"
     weight = 1
 
-#[[menu.main]]
-#    name = "about"
-#    url  = "/about/"
-#    weight = 2
+[[menu.main]]
+   name = "about"
+   url  = "/about/"
+   weight = 2
+
+[[menu.main]]
+   name = "Membership"
+   url  = "/membership/"
+   weight = 3
+
+[[menu.main]]
+   name = "Training"
+   url  = "/sessions/"
+   weight = 4
+
+[[menu.main]]
+   name = "Whitefield"
+   url  = "http://whitefield.cbvc.org.uk/"
+   weight = 19
+
+
+# [[menu.main]]
+#     name = "Contact"
+#     url  = "/contact/"
+#     weight = 4
 
 [[menu.main]]
     name = "Teams"
     identifier = "teams"
     url  = "/teams/"
-    weight = 2
+    weight = 20
 
 [[menu.main]]
 	name = "Men NVL Div 2"
@@ -67,11 +88,6 @@ paginate = 10
 	parent = "teams"
     url = "/teams/local_women/"
 	weight = 6
-
-# [[menu.main]]
-#     name = "Contact"
-#     url  = "/contact/"
-#     weight = 4
 
 
 # Top bar social links menu
