@@ -1,12 +1,6 @@
 ---
 title: Bristol Local League - Women
-type: teams
-categories:
-- teams
 banner:
-tags:
-- local league
-- women
 date: 2017-10-02
 ---
 ![Women's Local League Team](../../img/page-1.jpg)

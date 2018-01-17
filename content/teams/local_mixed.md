@@ -1,12 +1,6 @@
 ---
 title: Bristol Local League - Mixed
-type: teams
-categories:
-- teams
 banner: img/portfolio-5.jpg
-tags:
-- local league
-- mixed
 date: 2017-10-01
 ---
 ![Mix's Local League Team](../../img/homepage-slider.jpg)

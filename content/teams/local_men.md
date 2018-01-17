@@ -1,12 +1,6 @@
 ---
 title: Bristol Local League - Men
-type: teams
-categories:
-- teams
 banner:
-tags:
-- local league
-- men
 date: 2017-10-03
 ---
 ![Men's Local League Team](../../img/home-try.jpg)

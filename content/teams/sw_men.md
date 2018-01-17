@@ -1,12 +1,6 @@
 ---
 title: South West League - Men
-type: teams
-categories:
-- teams
 banner: img/portfolio-9.jpg
-tags:
-- south west
-- men
 date: 2017-10-05
 ---
 

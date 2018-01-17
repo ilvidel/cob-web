@@ -1,25 +1,26 @@
 ---
 title: NVL Women Division 3
-type: teams
-categories:
-- teams
-banner: img/women.jpg
-tags:
-- nvl
-- women
+banner: img/team-nvl-women-1718.jpg
 date: 2017-10-06
 ---
-![Women's Local League Team](../../img/women.jpg)
+![Women's Local League Team](../../img/team-nvl-women-1718.jpg)
 
 <br>
 
-Number 	  | Player 			   | Position | Height
----- 	  | ------ 			   | -------- | -----
-X 		  | CHOMICZ, Tania 	   | Player   | x
-X 		  | ADAMS, Michelle    | Player   | x
-X 		  | MRZOWSKA, Agata    | Player   | x
-X 		  | FERNÁNDEZ, Merixel | Player   | x
-X 		  | LETUCHEVA, Nadia   | Player   | x
+Number    | Player 				   | Position 		  | Height
+----      | ------ 				   | -------- 		  | -----
+X         | TINARI, Olimpia 	   | Middle 		  | X
+X         | BALDWIN, Amy 		   | Middle 		  | X
+X         | FALKNER, Kate 		   | Middle 		  | X
+X         | CHOMICZ, Tania 		   | Middle 		  | X
+1         | ADAMS, Michelle 	   | Middle 		  | X
+3         | HARVEY, Tracy 		   | Setter 		  | X
+6         | MROZOWSKA, Agata Roza  | Outside 		  | X
+7         | LETUCHEVA, Nadia 	   | Outside/Opposite | X
+8         | GRUSZCZYNSKA, Hanna    | Outside/Opposite | X
+9         | RAFEL, Gemma 		   | Outside/Opposite | X
+10        | CRIVEANU, Oana 		   | Outside/Opposite | X
+11        | FERNÁNDEZ, Meritxell   | Setter 		  | X
 **Coach** | **Przemek Kolenda**
 
 <br/>

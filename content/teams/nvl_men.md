@@ -1,12 +1,6 @@
 ---
 title: NVL Men Division 2
-type: teams
-categories:
-- teams
 banner: img/men.jpg
-tags:
-- nvl
-- men
 date: 2017-10-07
 ---
 ![NVL Men Team](../../img/men.jpg)
@@ -21,9 +15,8 @@ X 		  | TURNER, Ben 		| Middle   |  x
 6		  | GORTON, Phil        | Setter   |  x
 8 		  | FLORESCU, Radu 		| Outside  |  x
 10 		  | LADIC, Tadej 		| Middle   |  x
-11		  | LISOWSKI, Adam 		| Outside  |  x
+11		  | LISOWSKI, Adam 		| Middle   |  x
 13 		  | KOLENDA, Przemyslaw | Setter   |  x
-X 	      | GORTON, Phil 	    | Setter   |  x
 15		  | ALKHALAF, Hossen 	| Outside  |  x
 19		  | EVANS, Ollie 		| Libero   |  x
 20		  | RUEDA, Carlos 		| Libero   |  x
