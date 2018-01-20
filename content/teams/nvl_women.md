@@ -7,19 +7,19 @@ date: 2017-10-06
 
 <br>
 
-Number    | Player 				   | Position 		  | Height
-----      | ------ 				   | -------- 		  | -----
+Number    | Player 				   | Position 		  | Height (ft / cm)
+----      | ------ 				   | -------- 		  | :-----:
 X         | TINARI, Olimpia 	   | Middle 		  | X
-X         | BALDWIN, Amy 		   | Middle 		  | X
-X         | FALKNER, Kate 		   | Middle 		  | X
+X         | BALDWIN, Amy 		   | Middle 		  | 5.10 / 177
+X         | FALKNER, Kate 		   | Middle 		  | 5.4 / 165
 X         | CHOMICZ, Tania 		   | Middle 		  | X
-1         | ADAMS, Michelle 	   | Middle 		  | X
-3         | HARVEY, Tracy 		   | Setter 		  | X
-6         | MROZOWSKA, Agata Roza  | Outside 		  | X
-7         | LETUCHEVA, Nadia 	   | Outside/Opposite | X
-8         | GRUSZCZYNSKA, Hanna    | Outside/Opposite | X
+1         | ADAMS, Michelle 	   | Middle 		  | 5.10 / 177
+3         | HARVEY, Tracy 		   | Setter 		  | 5.6 / 170
+6         | MROZOWSKA, Agata Roza  | Outside 		  | 5.47 / 164
+7         | LETUCHEVA, Nadia 	   | Outside/Opposite | 5.38 / 164
+8         | GRUSZCZYNSKA, Hanna    | Outside/Opposite | 5.67 / 173
 9         | RAFEL, Gemma 		   | Outside/Opposite | X
-10        | CRIVEANU, Oana 		   | Outside/Opposite | X
+10        | CRIVEANU, Oana 		   | Outside/Opposite | 5.5 / 168
 11        | FERNÁNDEZ, Meritxell   | Setter 		  | X
 **Coach** | **Przemek Kolenda**
 

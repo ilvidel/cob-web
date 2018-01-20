@@ -7,19 +7,19 @@ date: 2017-10-07
 
 <br/>
 
-Number 	  | Player 				| Position | Height
------- 	  | ------ 				| -------- | -------
-X 		  | TURNER, Ben 		| Middle   |  x
-1 		  | WSZOLEK, Darius 	| Opposite |  x
-4 		  | BANWELL, Guy 		| Outside  |  x
-6		  | GORTON, Phil        | Setter   |  x
+Number 	  | Player 				| Position | Height (ft / cm)
+:------   | :------------------ | :------: | :-------:
+X 		  | TURNER, Ben 		| Middle   |  5.5 / 168
+1 		  | WSZOLEK, Darius 	| Opposite |  6.4 / 195
+4 		  | BANWELL, Guy 		| Outside  |  6.56 / 200
+6		  | GORTON, Phil        | Setter   |  5.9 / 180
 8 		  | FLORESCU, Radu 		| Outside  |  x
-10 		  | LADIC, Tadej 		| Middle   |  x
+10 		  | LADIC, Tadej 		| Middle   |  5.9 / 180
 11		  | LISOWSKI, Adam 		| Middle   |  x
-13 		  | KOLENDA, Przemyslaw | Setter   |  x
-15		  | ALKHALAF, Hossen 	| Outside  |  x
+13 		  | KOLENDA, Przemyslaw | Setter   |  6.3 / 193
+15		  | ALKHALAF, Hossen 	| Outside  |  5.9 / 180
 19		  | EVANS, Ollie 		| Libero   |  x
-20		  | RUEDA, Carlos 		| Libero   |  x
+20		  | RUEDA, Carlos 		| Libero   |  5.87 / 179
 **Coach** | **Phil Gorton**
 
 <br/>

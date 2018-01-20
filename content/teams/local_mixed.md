@@ -7,19 +7,19 @@ date: 2017-10-01
 
 <br>
 
-Number | Player 		  | Position | Height
+Number | Player 		  | Position | Height (ft / cm)
 ------ | ------ 		  | -------- | -----
-X 	   | Mrzowska, Agata  | Outside  | x
-X 	   | FRASER, Don	  | Middle   | x
-X 	   | NAVARRO, José 	  | Middle   | x
-X 	   | YOUSTER, Chris	  | Outside  | x
+X 	   | Mrzowska, Agata  | Outside  | 5.47 / 164
+X 	   | FRASER, Don	  | Middle   | 6.1 / 186
+X 	   | NAVARRO, José 	  | Middle   | 6.2 / 189
+X 	   | YOUSTER, Chris	  | Outside  | 5.7 / 173
 X 	   | GRIFFIN, Michael | Opposite | x
 X 	   | BENTLEY, Neil 	  | Libero   | x
 X 	   | JENKINS, Julie   | Setter   | x
-X 	   | GORTON, Phil 	  | Setter   | x
-X 	   | LETUCHEVA, Nadia | Opposite | x
-12 	   | LUS, Kris 		  | Setter   | x
-15 	   | DÍEZ, Ignacio 	  | Middle   | x
+X 	   | GORTON, Phil 	  | Setter   | 5.9 / 180
+X 	   | LETUCHEVA, Nadia | Opposite | 5.38 / 164
+12 	   | LUS, Kris 		  | Setter   | 6.1 / 186
+15 	   | DÍEZ, Ignacio 	  | Middle   | 6.36 / 194
 
 <br/>
 

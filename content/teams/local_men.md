@@ -7,13 +7,14 @@ date: 2017-10-03
 
 <br>
 
-Number 	  | Player 			 | Position | Height
+Number 	  | Player 			 | Position | Height (ft / cm)
 ------ 	  | ------ 			 | -------- | -----
-12 		  | LUS, Kris 		 | Setter   | x
-15 		  | DÍEZ, Ignacio 	 | Middle   | x
-X 		  | FRASER, Don		 | Middle   | x
-X 		  | NAVARRO, José 	 | Middle   | x
-X 		  | YOUSTER, Chris	 | Outside  | x
+          | GORTON, Phil     | Setter   | 5.9 / 180
+12 		  | LUS, Kris 		 | Setter   | 6.1 / 186
+15 		  | DÍEZ, Ignacio 	 | Middle   | 6.36 / 194
+X 		  | FRASER, Don		 | Middle   | 6.1 / 186
+X 		  | NAVARRO, José 	 | Middle   | 6.2 / 189
+X 		  | YOUSTER, Chris	 | Outside  | 5.7 / 173
 X 		  | GRIFFIN, Michael | Opposite | x
 X 		  | BENTLEY, Neil 	 | Libero   | x
 **Coach** | **Phil Gorton**
