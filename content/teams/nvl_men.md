@@ -3,13 +3,12 @@ title: NVL Men Division 2
 banner: img/men.jpg
 date: 2017-10-07
 ---
-![NVL Men Team](../../img/men.jpg)
+![NVL Men Team](../../img/teams/nvl-men-1617.jpg)
 
 <br/>
 
 Number 	  | Player 				| Position | Height (ft / cm)
 :------   | :------------------ | :------: | :-------:
-X 		  | TURNER, Ben 		| Middle   |  5.5 / 168
 1 		  | WSZOLEK, Darius 	| Opposite |  6.4 / 195
 4 		  | BANWELL, Guy 		| Outside  |  6.56 / 200
 6		  | GORTON, Phil        | Setter   |  5.9 / 180
@@ -17,6 +16,7 @@ X 		  | TURNER, Ben 		| Middle   |  5.5 / 168
 10 		  | LADIC, Tadej 		| Middle   |  5.9 / 180
 11		  | LISOWSKI, Adam 		| Middle   |  x
 13 		  | KOLENDA, Przemyslaw | Setter   |  6.3 / 193
+14 		  | TURNER, Ben 		| Middle   |  5.5 / 168
 15		  | ALKHALAF, Hossen 	| Outside  |  5.9 / 180
 19		  | EVANS, Ollie 		| Libero   |  x
 20		  | RUEDA, Carlos 		| Libero   |  5.87 / 179

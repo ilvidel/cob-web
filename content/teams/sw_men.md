@@ -4,7 +4,7 @@ banner: img/portfolio-9.jpg
 date: 2017-10-05
 ---
 
-![South West League - Men](../../img/portfolio-9.jpg)
+![South West League - Men](../../img/teams/sw-men-1617.jpg)
 
 Number 	  | Player 			 | Position | Height (ft / cm)
 ------ 	  | ------ 			 | -------- | -------

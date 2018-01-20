@@ -3,7 +3,7 @@ title: NVL Women Division 3
 banner: img/team-nvl-women-1718.jpg
 date: 2017-10-06
 ---
-![Women's Local League Team](../../img/team-nvl-women-1718.jpg)
+![Women's Local League Team](../../img/teams/nvl-women-1718.jpg)
 
 <br>
 
