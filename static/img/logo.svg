@@ -53,7 +53,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0790424"
-     inkscape:cx="79.359902"
+     inkscape:cx="80.321883"
      inkscape:cy="33.909708"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -95,14 +95,16 @@
        width="20.987793" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52499962px;line-height:23.81264305px;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient906);fill-opacity:1;stroke:#1c1f24;stroke-width:1.58749998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52499962px;line-height:23.81264305px;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient906);fill-opacity:1;stroke:#232060;stroke-width:1.5875;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        x="-237.04047"
        y="128.28763"
-       id="text898"><tspan
+       id="text898"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan896"
          x="-237.04047"
          y="128.28763"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52499962px;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient906);fill-opacity:1;stroke:#1c1f24;stroke-width:1.58749998;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers">City of Bristol VC</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52499962px;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient906);fill-opacity:1;stroke:#232060;stroke-width:1.5875;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:round">City of Bristol VC</tspan></text>
   </g>
 </svg>
