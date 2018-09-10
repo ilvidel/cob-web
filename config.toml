@@ -1,4 +1,4 @@
-baseurl = "https://example.org"
+baseurl = "http://cbvc.org.uk/"
 title = "City of Bristol Volleyball Club"
 theme = "hugo-universal-theme"
 languageCode = "en-uk"
@@ -150,7 +150,7 @@ paginate = 10
     email = "cobvolleyball@gmail.com"
 
     about_us = "<p>Playing and promoting volleyball in Bristol and District since the Roman Empire.</p>"
-    copyright = "Copyright (c) 2018, CoB VC; all rights reserved."
+    copyright = "Copyright (c) 2018, City of Bristol Volleyball Club; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "2 Jan 2006"

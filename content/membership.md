@@ -17,13 +17,12 @@ train but not play in any league. Check also our [training session times](/sessi
 Membership Level  | Full fees | Notes
 ----------------- | --------- | -----
 <br>              |           |
-NVL 			  | £32/month | Can play in any league
-South West 		  | £28/month | Can play SW and B+D League
+NVL 			  | £40/month | Can play in any league
+South West 		  | £35/month | Can play SW and B+D League
 B+D 			  | £50/year  | Can only play B+D League
-Casual players 	  | £20/month | What is this?
+Casual players 	  | £20/month | (or £7 per session). Only wants to train, but not play
 Concessions (U18) | £10/month |
-Casual weekly 	  | £7/week   | Only wants to train, but not play
-Concessions NVL   | £20/month | Check with the coach for eligibility
+Concessions NVL   | £20/month | Discretionary. Check with the coach for eligibility
 
 <br>
 
