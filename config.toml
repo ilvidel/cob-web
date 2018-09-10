@@ -147,7 +147,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "cobvolleyball@gmail.com"
 
     about_us = "<p>Playing and promoting volleyball in Bristol and District since the Roman Empire.</p>"
     copyright = "Copyright (c) 2018, CoB VC; all rights reserved."
@@ -156,14 +156,7 @@ paginate = 10
     date_format = "2 Jan 2006"
 
     logo = "logo.png"
-    address = """<p><strong>The City Academy</strong>
-        <br>Russel Town Avenue
-        <br>BS5 9JH
-        <br>Bristol
-        <br>
-        <strong>United Kingdom</strong>
-        </p>
-        """
+    address = """cobvolleyball@gmail.com"""
     latitude = "51.459106"
     longitude = "-2.562378"
 
