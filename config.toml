@@ -54,7 +54,7 @@ paginate = 10
     weight = 20
 
 [[menu.main]]
-	name = "Men NVL Div 2"
+	name = "Men NVL Div 1"
 	parent = "teams"
     url = "/teams/nvl_men/"
 	weight = 1
@@ -106,9 +106,9 @@ paginate = 10
 
 [[menu.topbar]]
     weight = 3
-    name = "Flickr"
-    url = "http://flickr.com/cityofbristol"
-    pre = "<i class='fa fa-2x fa-flickr'></i>"
+    name = "Instagram"
+    url = "https://www.instagram.com/cityofbristolvc"
+    pre = "<i class='fa fa-2x fa-instagram'></i>"
 
 # [[menu.topbar]]
 #     weight = 3
@@ -124,7 +124,7 @@ paginate = 10
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "Admin"
+    author = "admin"
     defaultKeywords = ["city of bristol", "bristol", "volleyball", "whitefield", "volley"]
     defaultDescription = "Official website of the City of Bristol Volleyball Club"
 
