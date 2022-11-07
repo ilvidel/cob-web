@@ -4,15 +4,20 @@ title: "Training"
 
 ## Training Sessions
 
-We have training sessions every Tuesday at City Academy in Bristol:
+We have training sessions every Tuesday at City Academy in Bristol
+(BS5 9JH). On Fridays we host a social session, open to anyone. Follow
+us on Instagram (
+[@citiofbristolvc](https://www.instagram.com/cityofbristolvc)) to stay
+informed about them.
 
 <br>
 
-Time  | Team
-----  | ----
+Day | Time  | Team
+--- | ----  | ----
 <br>  |
-19:30 - 21:00 | **Women** (NVL 3 + Local League)
-21:00 - 22:30 | **Men** (NVL 2 + SouthWest League)
+Tuesdays | 19:30 - 20:45 | **Women** (NVL 3 + Local League)
+Tuesdays | 20:45 - 22:30 | **Men** (NVL 1 + SouthWest League)
+Fridays  | 19:00 - 20:30 | **Social** Everybody welcome
 
 ### Venue
 

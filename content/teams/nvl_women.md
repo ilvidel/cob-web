@@ -1,29 +1,43 @@
 ---
 title: NVL Women Division 3
-banner: img/team-nvl-women-1718.jpg
-date: 2017-10-06
+date: 2021-10-09
 ---
-![Women's Local League Team](../../img/teams/nvl-women-1718.jpg)
+![Women's NVL Team Picture](../../img/teams/nvl-women-2122.jpg)
 
-<br>
 
-Number    | Player 				   | Position 		  | Height (ft / cm)
-----      | ------ 				   | -------- 		  | :-----:
-X         | TINARI, Olimpia 	   | Middle 		  | X
-X         | BALDWIN, Amy 		   | Middle 		  | 5.10 / 177
-X         | FALKNER, Kate 		   | Middle 		  | 5.4 / 165
-X         | CHOMICZ, Tania 		   | Middle 		  | X
-1         | ADAMS, Michelle 	   | Middle 		  | 5.10 / 177
-3         | HARVEY, Tracy 		   | Setter 		  | 5.6 / 170
-6         | MROZOWSKA, Agata Roza  | Outside 		  | 5.47 / 164
-7         | LETUCHEVA, Nadia 	   | Outside/Opposite | 5.38 / 164
-8         | GRUSZCZYNSKA, Hanna    | Outside/Opposite | 5.67 / 173
-9         | RAFEL, Gemma 		   | Outside/Opposite | X
-10        | CRIVEANU, Oana 		   | Outside/Opposite | 5.5 / 168
-11        | FERNÁNDEZ, Meritxell   | Setter 		  | X
-**Coach** | **Przemek Kolenda**
 
-<br/>
+Number      | Player                 | Position
+:----:      | ------                 | --------
+--          | CORNS, Rachel          |
+--          | LETUCHEVA, Nadia       | Outside/Opposite
+2           | NONEV, Anita           |
+4           | WINNICKA, Karolina     | Middle
+5           | MROZOWSKA, Agata Roza  | Outside
+7           | HARVEY, Tracy          | Setter
+8           | BISKUP, Karolina       |
+9           | BALDWIN, Amy           | Outside
+10          | CRIVEANU, Oana         | Outside/Opposite
+11          | CIMMINO, Nutcheewan    |
+17          | ADAMS, Michelle        | Middle
+20          | MATULA, Maja           |
+**Coach**   | **Gary Barton**
 
-<a href="https://www.volleyballengland.org/competitions/national_volleyball_league/league_tables?comp=VE1&season=VE92425429&division=VE99076474" class="results" target="_blank">Table</a>
-<a href="https://www.volleyballengland.org/competitions/national_volleyball_league/fixtures?season=VE92425429&division=VE99076474&teamID=BHA062377&month=all&sr=0" class="results" target="_blank">Fixtures</a>
+
+### Calendar
+
+Date      | Time  | Local                       |       | Away                        | Result
+---:      | ---   | ---:                        | ---   | :---                        | :---:
+ 7/Nov/21 | 11:30 | City of Bristol Ladies      |-      | Plymouth Mayflower VC       | 1-3
+21/Nov/21 | 14:30 | South Hants                 |-      | City of Bristol Ladies      | 3-1
+21/Nov/21 | 16:30 | Team Bristol Women's        |-      | City of Bristol Ladies      | 3-1
+12/Dec/21 | 14:00 | Plymouth                    |-      | City of Bristol Ladies      | 0-3
+12/Dec/21 | 16:00 | Southampton VC Women 2      |-      | City of Bristol Ladies      | 3-1
+23/Jan/22 | 11:30 | City of Bristol Ladies      |-      | Urbond VC Portsmouth Ladies | --
+23/Jan/22 | 13:30 | City of Bristol Ladies      |-      | Bedminster Volleyball       | --
+13/Feb/22 | 14:00 | Plymouth Mayflower VC       |-      | City of Bristol Ladies      | --
+13/Feb/22 | 16:00 | Southampton VC Women 2      |-      | City of Bristol Ladies      | --
+13/Mar/22 | 12:00 | Urbond VC Portsmouth Ladies |-      | City of Bristol Ladies      | --
+27/Mar/22 | 11:30 | South Hants                 |-      | City of Bristol Ladies      | --
+27/Mar/22 | 13:30 | Bedminster Volleyball       |-      | City of Bristol Ladies      | --
+10/Apr/22 | 12:00 | Plymouth                    |-      | City of Bristol Ladies      | --
+10/Apr/22 | 14:00 | City of Bristol Ladies      |-      | Team Bristol Women's        | --
